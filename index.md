@@ -3,3 +3,6 @@
 ``` python
 myVar = "look at this dude"
 ```
+- [ ] windows
+- [ ] doors
+- [ ] walls
